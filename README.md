@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Utsav Gupta
-🔭 I’m currently working on Data Structures & Algorithms<br><br>🌱 I’m currently learning Next.js<br>🤝 I’m looking for help with Next.js Development<br>👨‍💻 All of my projects are available at https://utsavxyz.vercel.app/<br>💬 Ask me about MERN, Java<br>📫 How to reach me utsav.gp1204@gmail.com<br>⚡ Fun fact I think I am funny
+🔭 I’m currently working on Data Structures & Algorithms<br><br>🌱 I’m currently learning Next.js<br><br>🤝 I’m looking for help with Next.js Development<br><br>👨‍💻 All of my projects are available at https://utsavxyz.vercel.app/<br><br>💬 Ask me about MERN, Java<br><br>📫 How to reach me utsav.gp1204@gmail.com<br><br>⚡ Fun fact I think I am funny
 
 
 ## 🌐 Socials:
