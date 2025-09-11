@@ -1,5 +1,11 @@
-# 💫 Hi 👋, I'm Utsav Gupta
-🔭 I’m currently working on Data Structures & Algorithms<br><br>🌱 I’m currently learning Next.js<br><br>🤝 I’m looking for help with Next.js Development<br><br>👨‍💻 All of my projects are available at https://utsavxyz.vercel.app/<br><br>💬 Ask me about MERN, Java<br><br>📫 How to reach me utsav.gp1204@gmail.com<br><br>⚡ Fun fact I think I am funny
+<h1 align="center">Hi 👋, I'm Utsav Gupta</h1>
+<h3 align="center">A Full Stack Developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/12/custom-erp-software-development.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=utsavg05&label=Profile%20views&color=0e75b6&style=flat" alt="utsavg05" /> </p>
+
+# 💫 About me:
+🔭 I’m currently working on Data Structures & Algorithms<br><br>🌱 I’m currently learning Next.js<br><br>🤝 I’m looking for help with Next.js Development<br><br>👨‍💻 Check out my portfolio here https://utsavxyz.vercel.app/<br><br>💬 Ask me about MERN, Java<br><br>📫 How to reach me utsav.gp1204@gmail.com<br><br>⚡ Fun fact: I think I am funny 😁
 
 
 ## 🌐 Socials:
