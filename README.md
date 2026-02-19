@@ -5,7 +5,17 @@
 
 # 💫 About me:
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a4/51/39/a451393c169a91586312551109361064.gif" >
-🔭 I’m currently working on Data Structures & Algorithms<br><br>🌱 I’m currently learning Next.js<br><br>🤝 I’m looking for help with Next.js Development<br><br>👨‍💻 Check out my portfolio here https://www.utsavworks.in/<br><br>💬 Ask me about MERN, Java<br><br>📫 You can contact me at:  utsav.gp1204@gmail.com<br><br>⚡ Fun fact: I think I am funny 😁
+🚀 Full Stack Developer building scalable SaaS & AI-powered apps  
+
+💻 MERN • Next.js • TypeScript • System Design
+
+📱 Exploring modern app development & product engineering  
+🛠️ Building real-world products, not just projects
+
+🌐 Portfolio: https://www.utsavworks.in  
+📫 utsav.gp1204@gmail.com  
+⚡ Turning ideas into shipped products.
+
 <br clear="right"/>
 
 ## 🌐 Socials:
