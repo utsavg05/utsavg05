@@ -5,15 +5,13 @@
 
 # 💫 About me:
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a4/51/39/a451393c169a91586312551109361064.gif" >
-🚀 Full Stack Developer building scalable SaaS & AI-powered apps  
+🚀 Full Stack Developer building scalable SaaS & AI-powered apps  <br><br>
 
-💻 MERN • Next.js • TypeScript • System Design
-
-📱 Exploring modern app development & product engineering  
-🛠️ Building real-world products, not just projects
-
-🌐 Portfolio: https://www.utsavworks.in  
-📫 utsav.gp1204@gmail.com  
+💻 MERN • Next.js • TypeScript • System Design<br><br>
+📱 Exploring modern app development & product engineering  <br><br>
+🛠️ Building real-world products, not just projects<br><br>
+🌐 Portfolio: https://www.utsavworks.in  <br><br>
+📫 utsav.gp1204@gmail.com  <br><br>
 ⚡ Turning ideas into shipped products.
 
 <br clear="right"/>
