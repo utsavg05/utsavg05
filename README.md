@@ -21,7 +21,7 @@ An AI-powered learning platform that turns **YouTube videos, PDFs, and study mat
 - Integrated AI-powered content generation, authentication, and subscriptions
 - **Stack:** Next.js, TypeScript, Neon, Prisma, Clerk, GenAI
 
-### 🐾 [Codemon](https://codemon.pro) — Your AI Coding Companion
+### 🐻 [Codemon](https://codemon.pro) — Your AI Coding Companion
 
 A desktop companion that brings pixel-art pets to your AI coding sessions.
 
