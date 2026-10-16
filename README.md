@@ -1,35 +1,63 @@
-<h1 align="center">Hi 👋, I'm Utsav Gupta</h1>
-<h3 align="center">A Full Stack Developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=utsavg05&label=Profile%20views&color=0e75b6&style=flat" alt="utsavg05" /> </p>
+# Hey, I'm Utsav 👋
 
+**Full-Stack Developer · Indie Hacker · Building in Public**
 
-# 💫 About me:
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a4/51/39/a451393c169a91586312551109361064.gif" >
-🚀 Full Stack Developer building scalable SaaS & AI-powered apps  <br><br>
+I love turning ideas into real products, from writing the first line of code to shipping them for people to use.
 
-💻 MERN • Next.js • TypeScript • System Design<br><br>
-📱 Exploring modern app development & product engineering  <br><br>
-🛠️ Building real-world products, not just projects<br><br>
-🌐 Portfolio: https://www.utsavworks.in  <br><br>
-📫 utsav.gp1204@gmail.com  <br><br>
-⚡ Turning ideas into shipped products.
+Currently building SaaS products, exploring AI-powered tools, and working as an **SDE Intern at WLDD**.
 
-<br clear="right"/>
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/utsav-gupta-3443a0324) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/0xdevug) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:utsav.gp1204@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=flat&logo=chakraui&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=flat&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=utsavg05&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=utsavg05&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=utsavg05&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Quote of the day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+🌐 [Portfolio](https://utsavworks.in) · [X / Twitter](https://x.com/0xdevug) · [Linkedin](https://www.linkedin.com/in/utsav-gupta-3443a0324/)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=utsavg05&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Things I've Built
+
+### 📚 [Scribely](https://scribely.site) — AI Study Companion
+
+An AI-powered learning platform that turns **YouTube videos, PDFs, and study materials** into handwritten notes, flashcards, quizzes, and revision sheets.
+
+- **1,600+ users** and growing
+- Built and launched as a solo developer
+- Integrated AI-powered content generation, authentication, and subscriptions
+- **Stack:** Next.js, TypeScript, Neon, Prisma, Clerk, Gen
+
+### 🐾 [Codemon](https://codemon.pro) — Your AI Coding Companion
+
+A desktop companion that brings pixel-art pets to your AI coding sessions.
+
+- Real-time companion for Claude Code and other AI coding tools
+- Supports multiple projects and sessions
+- Available for **Windows & macOS**
+- **Stack:** Electron, React
+
+---
+
+## 💻 What I Work With
+
+| Area | Technologies |
+|---|---|
+| **Frontend** | React, Next.js, TypeScript, JavaScript, Tailwind CSS |
+| **Backend** | Node.js, Express.js, REST APIs |
+| **Databases** | PostgreSQL, MongoDB, Prisma, Redis |
+| **Cloud & DevOps** | AWS, Docker, Vercel, Cloudflare, GitHub Actions |
+| **Tools & AI** | Git, Figma, Cursor, Claude Code, Codex, Gemini |
+
+---
+
+## ⚡ A Little More About Me
+
+- 💼 Currently working as an **SDE Intern at WLDD**, building features for real-world products.
+- 🛠️ Love building and shipping products independently.
+- 🤖 Exploring AI agents, developer tooling, and automation.
+- 🌱 Learning more about system design, scalable backends, and product engineering.
+- ✍️ Sharing my building journey, experiments, and small wins on [X](https://x.com/0xdevug).
+
+---
+
+## 🤝 Let's Connect
+
+Always happy to connect with developers, founders, and people building interesting things.
+
+**[Portfolio](https://utsavworks.in) · [X](https://x.com/0xdevug) · [GitHub](https://github.com/utsavg05)**
+
+*Building, shipping, learning, and repeating.* 🚀
