@@ -16,7 +16,7 @@ Currently building SaaS products, Agentic Systems, and working as an **SDE Inter
 
 An AI-powered learning platform that turns **YouTube videos, PDFs, and study materials** into handwritten notes, flashcards, quizzes, and revision sheets.
 
-- **1,600+ users** and growing
+- **1,700+ users** and growing
 - Built and launched as a solo developer
 - Integrated AI-powered content generation, authentication, and subscriptions
 - **Stack:** Next.js, TypeScript, Neon, Prisma, Clerk, GenAI
